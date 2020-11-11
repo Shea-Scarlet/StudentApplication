@@ -18,5 +18,14 @@
     <ClInclude Include="StudentApplication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="HashList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HashList.cd" />
   </ItemGroup>
 </Project>

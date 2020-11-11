@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StudentApplication", "StudentApplication.vcxproj", "{5219794B-A345-4C1A-85BB-6D24248B35E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{DFF087F1-575F-4446-A034-3EC99173DD4C}"
+	ProjectSection(SolutionItems) = preProject
+		HashList.cd = HashList.cd
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
